@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\bin\Debug\net8.0-windows\Prova_IMC.exe
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\bin\Debug\net8.0-windows\Prova_IMC.deps.json
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\bin\Debug\net8.0-windows\Prova_IMC.runtimeconfig.json
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\bin\Debug\net8.0-windows\Prova_IMC.dll
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\bin\Debug\net8.0-windows\Prova_IMC.pdb
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.Form1.resources
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.dll
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\refint\Prova_IMC.dll
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.pdb
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\Prova_IMC.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Fahre\PROVA\Prova_IMC\obj\Debug\net8.0-windows\ref\Prova_IMC.dll
